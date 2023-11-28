@@ -1,0 +1,1 @@
+-> J'ai choisi de faire l'application Notes en React car c'est un language que j'ai déjà utilisé
